@@ -1,6 +1,6 @@
-// alert("Jesus é o Salvador");
+// alert("Olá Mundo");
 
-// let retornoDoUsuario =  confirm("Deseja aceitar Jesus como seu unico e salvador?")
+// let retornoDoUsuario =  confirm("Gostaria de ganhar um prêmio?")
 
 // console.log(retornoDoUsuario)
 
